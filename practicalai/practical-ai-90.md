@@ -24,7 +24,7 @@ Welcome to the Practical AI podcast. My name is Chris Benson. I'm a principal AI
 
 **Daniel Whitenack:** Normally, when I do AI trainings in industry, or like at conferences or something, obviously there's normally like a whiteboard there, there's a lot of -- it kind of changes as the class goes on, because there's a lot of easy back and forth... So it was interesting to figure out the virtual dynamic, with everybody being at home.
 
-I think actually it ended up having some benefits, because it sort of forced me -- normally, I write things at the whiteboard, I'm able to make changes as I go... But to have to sit down and work things out in a strict set of slides that I'm showing made me really think about "What is the proper flow to explain this idea and show certain things?" In that respect, actually it was a learning experience for me...
+I think actually it ended up having some benefits, because it sort of forced me -- normally, I write things at the whiteboard, I'm able to make changes as I go... But to have to sit down and work things out in a strict set of slides that I'm showing made me really think about like "What is the proper flow to explain this idea and show certain things?" In that respect, actually it was a learning experience for me...
 
 **Chris Benson:** \[00:04:11.02\] I bet.
 
